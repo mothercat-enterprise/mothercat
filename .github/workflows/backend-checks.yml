@@ -3,7 +3,7 @@ name: Backend checks
 on:
   pull_request:
   push:
-    branches: [development, main]
+    branches: [Development, main]
   workflow_dispatch:
 
 permissions:
